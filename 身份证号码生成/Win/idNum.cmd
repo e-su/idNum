@@ -12,8 +12,8 @@ setlocal enabledelayedexpansion
 
 echo.
 echo 作者：苏俊海 
-echo 日期：2022年5月1日 
 echo 网址：https://e-e.fun    https://github.com/e-su 
+echo 日期：2022年5月1日 
 echo 声明：此程序仅供测试，不可用于非法活动 
 echo.
 echo 身份证号码示例 
